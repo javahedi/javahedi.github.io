@@ -1,10 +1,49 @@
 main:
+  - title: "Home"
+    url: /
+    
+  # Products dropdown
   - title: "Products"
     url: /products/
     children:
       - title: "Thermoplastics"
         url: /products/thermoplastics/
+      - title: "Elastomers"
+        url: /products/elastomers/
+      - title: "Biodegradables"
+        url: /products/biodegradables/
+
+  # Consulting (standalone or dropdown)
+  - title: "Consulting"
+    url: /consulting/
+    # Optional: Add children if you have sub-services
+    # children:
+    #   - title: "Material Selection"
+    #     url: /consulting/material-selection/
+
+  # R&D dropdown
   - title: "R&D"
     url: /research/
+    icon: "fab fa-fw fa-flask"
+    children:
+      - title: "Publications"
+        url: /research/publications/
+      - title: "Patents"
+        url: /research/patents/
+      - title: "Case Studies"
+        url: /research/case-studies/
+
+  # About dropdown
   - title: "About"
     url: /about/
+    children:
+      - title: "Team"
+        url: /about/team/
+      - title: "Partners"
+        url: /about/partners/
+
+  # Contact (highlighted for visibility)
+  - title: "Contact"
+    url: /contact/
+    # Optional: Add icon (requires Font Awesome)
+    # icon: "fas fa-envelope"

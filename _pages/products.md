@@ -1,6 +1,6 @@
 ---
-title: "Projects"
-permalink: /projects/
+title: "Products"
+permalink: /products/
 ---
 
 # Lists of my ongoing projects 
