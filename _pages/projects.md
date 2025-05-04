@@ -10,5 +10,5 @@ permalink: /projects/
 
 # List of projects done!
 - project 1 : tttttt
-- project 2 : rrrrrr <iframe width="560" height="315" src="https://www.youtube.com/embed/Pof342wGt78?si=y2gO059Ss0a2nmUq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-- project 3 : vvvvvv
+- project 2 : rrrrrr,  <iframe width="560" height="315" src="https://www.youtube.com/embed/Pof342wGt78?si=y2gO059Ss0a2nmUq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- project 3 : vvvvvv, <iframe src="https://drive.google.com/file/d/1qggDfACBwkrTWg1rfxBgv8L_KRwnS0Ih/preview" width="640" height="480" allow="autoplay"></iframe>
