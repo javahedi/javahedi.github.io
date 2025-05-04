@@ -62,10 +62,7 @@ author:
   avatar : "/assets/images/myPhoto.jpg"
   bio    : "I’m a software developer with an academic background in computional physicsist, 
             passionate about solving complex problems at the intersection of technology and 
-            the physical world. My journey has included self-driven projects in C++ and Qt/QML—especially 
-            in interactive and simulation-based applications. Though I’m at the beginning of my 
-            professional career, I bring strong analytical thinking from physics, coding skills 
-            from computer science, and a continuous drive to learn and contribute to innovative, high-tech solutions."
+            the physical world."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
