@@ -1,11 +1,10 @@
 main:
-  - title: "Projects"
-    url: /projects/
-  - title: "Codes"
-    url: /codes/
-  - title: "Publications"
-    url: /publications/
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Products"
+    url: /products/
+    children:
+      - title: "Thermoplastics"
+        url: /products/thermoplastics/
+  - title: "R&D"
+    url: /research/
   - title: "About"
     url: /about/

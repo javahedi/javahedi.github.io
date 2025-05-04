@@ -2,9 +2,12 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
+layout: single # splash, home, single, archive, archive-taxonomy, search, posts, category 
 author_profile: true
 ---
+
+![Your Alt Text](/assets/images/photos.jpeg){: .full-width}
+
 
 My journey has included self-driven projects in C++ and Qt/QML—especially in interactive and simulation-based applications. Though I’m at the beginning of my professional career, I bring strong analytical thinking from physics, coding skills from computer science, and a continuous drive to learn and contribute to innovative, high-tech solutions.
 
@@ -14,20 +17,6 @@ A collection of my self-driven projects that combine my interests in physics, co
 
 ## 🧪 Physics-Inspired Simulations
 
-### 🔸 Particle Simulator (C++/Qt/QML)
-- **Description:** A simple 2D particle system simulating gravitational interactions.
-- **Technologies:** C++, Qt/QML
-- **Features:**
-  - Interactive UI with QML
-  - Adjustable physical parameters (mass, velocity, etc.)
-  - Real-time visual feedback
-
-### 🔸 Wave Interference Visualizer (Python)
-- **Description:** Simulates wave interference patterns (e.g., double-slit experiment).
-- **Technologies:** Python, Matplotlib, NumPy
-- **Features:**
-  - Adjustable wavelength, slit separation
-  - Visualizes intensity distribution in real time
 
 ## 🎮 Interactive & Game-like Projects
 
